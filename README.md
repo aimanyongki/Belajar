@@ -5,7 +5,7 @@ Hello World!
 This repository provides some basic knowledge about programming and geoscience field.
 
 
-Here are several links for further readings
+Here are several links for further readings:
 
 https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
 
