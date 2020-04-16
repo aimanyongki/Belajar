@@ -21,6 +21,7 @@ Here are several links for further readings:
 
 
 Notes: 
+
 Python is growing and now there are two versions: 2.x and 3.x. See the details.
 
 Ipython = Jupyter Notebooks
