@@ -1,7 +1,7 @@
-## Terminology \
-Shell scripting: commands written for the shell to execute \ 
-Shell script: A file or program that shell will execute \
-Sh (Bourne Shell): A shell interpreter \
+## Terminology
+Shell scripting: commands written for the shell to execute\ 
+Shell script: A file or program that shell will execute\
+Sh (Bourne Shell): A shell interpreter\
 Bash (Bourne Again Shell): The improved version of Sh \
 
 ## How it works \
