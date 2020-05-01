@@ -39,6 +39,6 @@ Run the `hello` script once more
 <br>
 <br>
 <br>
-A sysadmin's guide to Bash scripting, by opensource.com
+A sysadmin's guide to Bash scripting, by opensource.com <br>
 https://itnext.io/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba <br>
 https://devhints.io/bash
