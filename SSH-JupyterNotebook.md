@@ -1,5 +1,6 @@
 ## How to work with Jupyter Notebook remotely (via SSH)
 <br>
+
 1. Log in over `ssh username@remoteserver` <br>
 
 2. Activate conda envs <br>
