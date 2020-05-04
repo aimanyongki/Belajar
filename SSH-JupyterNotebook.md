@@ -12,4 +12,6 @@
 4. Open new terminal, type <br>
 `ssh -NL 8888:localhost:8888 username@remoteserver` <br>
 
-5. Open browser on your local computer, go to Jupyter Notebook's URL <br>
+5. Open browser on your local computer, copy the Jupyter Notebook's URL from step 3 [e.g. http://localhost:8888/?token=...], pu it on your browser's address bar <br>
+
+6. Happy coding!
