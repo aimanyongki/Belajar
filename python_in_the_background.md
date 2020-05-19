@@ -4,18 +4,18 @@ Sometimes running a program can take a long time. <br>
 This shows you how to run a python script in the background using `nohup`, a POSIX command to ignore the HUP (hangup) signal. <br>
 Other alternatives are available, such as: `screen`, etc. <br>
 
-Basic command:
-`$ nohup abcd &`
+Basic command:<br>
+`$ nohup abcd &`<br>
 `$ exit`
 
 In my case, I would like to run a python script on the server. Here is my settings. <br>
 First, we could add a shebang command on the top of our script <br>
 `#!/usr/bin/env python`
 
-Then, set permissions of the file to allow execution
+Then, set permissions of the file to allow execution<br>
 `chmod +x myscript.py`
 
-Run the script with `nohup` which allows you to close the terminal without stopping the execution
+Run the script with `nohup` which allows you to close the terminal without stopping the execution<br>
 `nohup /path/to/myscript.py &`
 
 For now you can exit the session until the execution is finished. <br>
