@@ -31,7 +31,7 @@ Please note that you can only check the log file during the execution if you spe
 `nohup -u /path/to/myscript.py > output.log &` <br>
 <br>
 <br>
-References:
-https://janakiev.com/blog/python-background/ <br>
-`“#!/usr/bin/env NAME”` vs `“#!/path/to/NAME”` <br>
+References:<br>
+- https://janakiev.com/blog/python-background/ <br>
+- `“#!/usr/bin/env NAME”` vs `“#!/path/to/NAME”` <br>
 https://unix.stackexchange.com/questions/29608/why-is-it-better-to-use-usr-bin-env-name-instead-of-path-to-name-as-my
