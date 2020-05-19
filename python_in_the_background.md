@@ -1,7 +1,7 @@
 # Python in the Background
 
-Sometimes running a program can take a long time. <br>
-This shows you how to run a python script in the background using `nohup`, a POSIX command to ignore the HUP (hangup) signal. <br>
+Sometimes running a program can take a long time.
+This shows you how to run a python script in the background using `nohup`, a POSIX command to ignore the HUP (hangup) signal.
 Other alternatives are available, such as: `screen`, etc. <br>
 
 Basic command:<br>
